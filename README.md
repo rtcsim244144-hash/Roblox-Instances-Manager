@@ -78,3 +78,7 @@ All limits are removed again when you close the tool with the mushroom button.
 ## License
 
 [MIT](LICENSE)
+
+## Icons
+
+All by Monad's Studio
